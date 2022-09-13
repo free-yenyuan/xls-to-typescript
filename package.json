@@ -1,0 +1,24 @@
+{
+  "name": "xls-to-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/free-yenyuan/xls-to-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/free-yenyuan/xls-to-typescript/issues"
+  },
+  "homepage": "https://github.com/free-yenyuan/xls-to-typescript#readme",
+  "dependencies": {
+    "read-excel-file": "^5.4.7"
+  }
+}
